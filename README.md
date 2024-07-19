@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=Mikah-Kainen-dev-C&style=flat&color=DC143C)
-![](https://img.shields.io/github/followers/Mikah-Kainen-dev-C?style=social)
+![](https://komarev.com/ghpvc/?username=Mikah-Kainen&style=flat&color=DC143C)
+![](https://img.shields.io/github/followers/Mikah-Kainen?style=social)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mikah-Kainen-dev-C&column=8&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mikah-Kainen&column=8&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikah-Kainen-dev-C&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 !Mikah's GitHub stats
