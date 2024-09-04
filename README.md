@@ -1,5 +1,5 @@
 # Hi, I am Mikah Kainen
-## I am a sophomore at Purdue majoring in CS
+## I am a sophomore at Purdue double majoring in CS and Economics
 
 ![](https://komarev.com/ghpvc/?username=Mikah-Kainen&style=flat&color=DC143C)
 ![](https://img.shields.io/github/followers/Mikah-Kainen?style=social)
