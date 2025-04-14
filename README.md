@@ -15,7 +15,7 @@
 
 
 
-
+<!--
 Research
 
 
@@ -109,3 +109,5 @@ Art of Problem Solving:
 ---
 Big thanks to Kart for inspiring me to update my README!\
 Check out his fantastic README and projects [here](https://github.com/kartva?tab=overview&from=2019-12-01&to=2019-12-31)! 
+
+ -->
